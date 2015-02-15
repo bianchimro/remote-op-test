@@ -1,0 +1,6 @@
+{
+    "op_name" : "git_op_1",
+    "op_package" : "git",
+    "op_description" : "Ehi this comes from git!",
+
+}
