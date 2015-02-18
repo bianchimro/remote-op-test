@@ -1,3 +1,4 @@
 {
-    "a" : { "serializer_class" : "CharField", "kwargs" : { "help_text" : "this is a char parameter"}  }
+    "a" : { "serializer_class" : "CharField", "kwargs" : { "help_text" : "this is a char parameter"}  },
+    "b" : { "serializer_class" : "CharField", "kwargs" : { "help_text" : "this is another char parameter"}  }
 }
